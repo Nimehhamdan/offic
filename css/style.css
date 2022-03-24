@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    margin: 50px;
+    margin-left: 10px;
+    padding: 30px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+@font-face{
+    font-family:KumbhSans-Regular ;
+    src: url("../fonts/KumbhSans-Regular.ttf");
+}
+@font-face{
+    font-family:KumbhSans-Bold;
+    src:url("../fonts/KumbhSans-Bold.ttf");
+}
+.onebox{
+   color: #333950;
+   padding: 30px;
+    font-family: KumbhSans-Bold;
+    font-size: 56px;
+    margin-right: 35%;
+}
+.box{
+    color: #747b95;
+    padding: 30px;
+    font-family: kumbhSans-Regular;
+    font-size: 18px;
+    margin-right: 35%;
+}
+.button:hover{
+    background-color: #FFFFFF;
+    color:  #5175FF;
+}
+.button{
+    margin-left: 8%;
+    margin-top: 2%;
+    margin-bottom: 179px;
+    background: #5175FF;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: KumbhSans-Bold;
+    color: #FFFFFF;
+}
+.imge{
+    padding: 19px;
+}
+.one{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+}
+.tap:hover{
+    background-color: #5175FF;
+    color: #FFFFFF;
+}
+.tap{
+    text-align: center;
+    margin-bottom: 8%;
+    border: solid 3px;
+    border:currentColor;
+    background-color:#FFFFFF;
+    border-radius: 10%;
+    line-height: 50px;
+    padding: 20px;
+    border-radius: 30px; 
+}
+.basic{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 30px;
+}
+.free{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 56px;
+}
+.Try_for_Free{
+    margin-top: 2%;
+    margin-bottom: 179px;
+    background-color: #E4EAFF;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: KumbhSans-Bold;
+    color: #5175FF;
+}
+.prand:hover{
+    background-color: #5175FF;
+    color: #FFFFFF;
+}
+.prand{
+    text-align: center;
+    margin-bottom: 8%;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: solid 3px;
+    border:currentColor;
+    background-color:#FFFFFF;
+    border-radius: 10%;
+    line-height: 50px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.pro{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 30px;
+}
+.point{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 56px;
+}
+.Ult{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 30px;
+}
+.nump{
+    padding: 30px;
+    font-family:KumbhSans-Bold;
+    font-size: 56px;
+}
+.control{
+    margin-bottom: 50px;
+}
+.two{
+    margin-left: 3%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+}
+.hand{
+    background:#333950;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    border-radius: 15px;
+    width: 8%;
+    text-align: center;
+}
+.number{
+    color: #FFFFFF;
+    font-size: 56px;
+    font-family:KumbhSans-Bold;
+    margin-top: 10%;
+}
+.time{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family:KumbhSans-Bold;
+    margin-top: 10%;
+}
+.Get-started:hover{
+    background-color: #FFFFFF;
+    color:  #5175FF;
+}
+.Get-started{
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-bottom: 179px;
+    background: #5175FF;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: KumbhSans-Bold;
+    color: #FFFFFF;
+}
+ 
